@@ -1,7 +1,7 @@
 {
-  "homepage": "https://deepusasi123.github.io/my-react-app",
   "name": "cineflare",
   "private": true,
+  "homepage": "https://deepusasi123.github.io/CineFlare/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
